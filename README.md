@@ -6,7 +6,7 @@ JD app video download by video_ID,
 100145981462 Wifi7路由器新选择，全屋信号满格.mp4
 10088558264632 LiberLive自动挡吉他实现弹唱自由.mp4
 
-
+![软件主界面](https://raw.githubusercontent.com/liumingdada/jdvideodown/refs/heads/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.jpg)]
 
 18801京东视频采集程序V3 - 软件简介
 18801京东视频采集程序V3是一款功能强大的工具，专为从京东平台批量采集带货视频而设计，可助力用户高效获取视频资源，用于二次创作或跨平台分享。
